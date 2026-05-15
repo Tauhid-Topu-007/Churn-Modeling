@@ -7,3 +7,4 @@ seaborn
 tensorboard
 streamlit
 plotly
+streamlit-option-menu
